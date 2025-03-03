@@ -6,11 +6,10 @@ package lab_6;
 
 /**
  *
- * @author msn
+ * @author bruce
  */
-public class Member_Patrick {
-    
+public class Member_Zefan {
     public void greeting () {
-        System.out.println("My name is Patrick and I am member 2");
+        System.out.println("My name is Zefan(Bruce) and I am member3");
     }
 }
