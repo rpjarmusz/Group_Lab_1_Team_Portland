@@ -21,6 +21,8 @@ public class TeamGreeting {
         m1.greeting();
         Member_Patrick m2 = new Member_Patrick();
         m2.greeting();
+        Member_Zefan m3=new Member_Zefan();
+        m3.greeting();
     }
     
 }
