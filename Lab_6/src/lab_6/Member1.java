@@ -11,6 +11,6 @@ package lab_6;
 public class Member1 {
     
     public void greeting () {
-        System.out.println("Hello everyone, this is Member1, Rob");
+        System.out.println("Hello everyone from Rob, member1");
     }
 }
