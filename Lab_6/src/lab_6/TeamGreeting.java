@@ -19,6 +19,8 @@ public class TeamGreeting {
         // TODO code application logic here
         Member1 m1 = new Member1();
         m1.greeting();
+        Member_Patrick m2 = new Member_Patrick();
+        m2.greeting();
     }
     
 }
