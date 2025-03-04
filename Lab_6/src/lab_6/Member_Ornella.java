@@ -9,5 +9,7 @@ package lab_6;
  * @author villa
  */
 public class Member_Ornella {
-    
+    public void greeting () {
+        System.out.println("My name is Ornella and I am member 4");
+    }
 }

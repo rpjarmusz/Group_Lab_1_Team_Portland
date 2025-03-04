@@ -23,6 +23,8 @@ public class TeamGreeting {
         m2.greeting();
         Member_Zefan m3=new Member_Zefan();
         m3.greeting();
+        Member_Ornella m4 = new Member_Ornella();
+        m4.greeting();
     }
     
 }
