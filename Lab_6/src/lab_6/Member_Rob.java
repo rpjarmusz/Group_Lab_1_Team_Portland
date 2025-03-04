@@ -8,9 +8,9 @@ package lab_6;
  *
  * @author msn
  */
-public class Member1 {
+public class Member_Rob {
     
     public void greeting () {
-        System.out.println("Hello everyone, this is Member1, Rob");
+        System.out.println("Hello, my name is Rob, member 1");
     }
 }
