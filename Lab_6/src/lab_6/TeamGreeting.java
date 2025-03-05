@@ -17,8 +17,7 @@ public class TeamGreeting {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        Member_Rob m1 = new Member_Rob();
-        m1.greeting();
+        Member_Rob.greeting();
         Member_Patrick m2 = new Member_Patrick();
         m2.greeting();
         Member_Zefan m3=new Member_Zefan();
