@@ -10,7 +10,7 @@ package lab_6;
  */
 public class Member_Rob {
     
-    public void greeting () {
+    public static void greeting () {
         System.out.println("Hello, my name is Rob, member 1");
     }
 }
